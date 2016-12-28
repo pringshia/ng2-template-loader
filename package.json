@@ -1,6 +1,6 @@
 {
   "name": "ng2-template-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Pratik Ringshia",
   "description": "A webpack loader for escaping text to display as-is for Angular 2 template strings.",
   "keywords": [
